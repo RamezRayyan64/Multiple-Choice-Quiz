@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#424242</color>
+    <color name="colorOnPrimary">#FAFAFA</color>
+    <color name="colorPrimaryVariant">#212121</color>
+    <color name="colorSecondary">#424242</color>
+    <color name="colorOnSecondary">#FAFAFA</color>
+    <color name="colorSecondaryVariant">#212121</color>
+    <color name="colorBackground">#212121</color>
+    <color name="colorOnBackground">#FAFAFA</color>
+    <color name="colorSurface">#212121</color>
+    <color name="colorOnSurface">#FAFAFA</color>
+    <color name="colorError">#B00020</color>
+    <color name="colorOnError">#FAFAFA</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorBackgroundContactImage">#45000000</color>
+</resources>
