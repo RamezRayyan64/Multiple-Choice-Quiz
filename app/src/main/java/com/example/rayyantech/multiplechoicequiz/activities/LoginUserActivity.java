@@ -1,10 +1,10 @@
-package com.example.multiplechoicequiz.activities;
+package com.example.rayyantech.multiplechoicequiz.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.example.multiplechoicequiz.R;
+import com.example.rayyantech.multiplechoicequiz.R;
 
 public class LoginUserActivity extends AppCompatActivity {
 

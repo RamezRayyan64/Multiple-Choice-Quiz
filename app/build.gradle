@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.example.multiplechoicequiz"
+        applicationId "com.example.rayyantech.multiplechoicequiz"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1

@@ -1,4 +1,4 @@
-package com.example.multiplechoicequiz.activities;
+package com.example.rayyantech.multiplechoicequiz.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.AppCompatButton;
@@ -16,9 +16,9 @@ import android.view.View;
 import android.widget.RadioGroup;
 import android.widget.Toast;
 
-import com.example.multiplechoicequiz.R;
-import com.example.multiplechoicequiz.database.QuestionDatabaseHelper;
-import com.example.multiplechoicequiz.models.QuestionModel;
+import com.example.rayyantech.multiplechoicequiz.R;
+import com.example.rayyantech.multiplechoicequiz.database.QuestionDatabaseHelper;
+import com.example.rayyantech.multiplechoicequiz.models.QuestionModel;
 
 import java.util.List;
 

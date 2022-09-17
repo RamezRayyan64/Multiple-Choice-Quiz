@@ -1,4 +1,4 @@
-package com.example.multiplechoicequiz.database;
+package com.example.rayyantech.multiplechoicequiz.database;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -8,8 +8,8 @@ import android.database.sqlite.SQLiteOpenHelper;
 import android.database.sqlite.SQLiteQueryBuilder;
 import android.os.Parcelable;
 
-import com.example.multiplechoicequiz.models.CategoriesModel;
-import com.example.multiplechoicequiz.models.QuestionModel;
+import com.example.rayyantech.multiplechoicequiz.models.CategoriesModel;
+import com.example.rayyantech.multiplechoicequiz.models.QuestionModel;
 
 import java.util.ArrayList;
 import java.util.List;

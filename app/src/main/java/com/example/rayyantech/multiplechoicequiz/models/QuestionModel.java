@@ -1,4 +1,4 @@
-package com.example.multiplechoicequiz.models;
+package com.example.rayyantech.multiplechoicequiz.models;
 
 import android.os.Parcel;
 import android.os.Parcelable;

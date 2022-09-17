@@ -1,4 +1,4 @@
-package com.example.multiplechoicequiz.models;
+package com.example.rayyantech.multiplechoicequiz.models;
 
 public class CategoriesModel {
 

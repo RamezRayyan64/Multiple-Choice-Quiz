@@ -1,4 +1,4 @@
-package com.example.multiplechoicequiz.activities;
+package com.example.rayyantech.multiplechoicequiz.activities;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
@@ -16,9 +16,9 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 
-import com.example.multiplechoicequiz.R;
-import com.example.multiplechoicequiz.database.QuestionDatabaseHelper;
-import com.example.multiplechoicequiz.models.CategoriesModel;
+import com.example.rayyantech.multiplechoicequiz.R;
+import com.example.rayyantech.multiplechoicequiz.database.QuestionDatabaseHelper;
+import com.example.rayyantech.multiplechoicequiz.models.CategoriesModel;
 
 import java.util.ArrayList;
 import java.util.List;

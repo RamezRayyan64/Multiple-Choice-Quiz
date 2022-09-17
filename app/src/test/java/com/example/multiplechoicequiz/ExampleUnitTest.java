@@ -1,4 +1,4 @@
-package com.example.multiplechoicequiz;
+package com.example.rayyantech.multiplechoicequiz;
 
 import org.junit.Test;
 
